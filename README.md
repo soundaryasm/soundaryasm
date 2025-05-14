@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**soundaryasm/soundaryasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Soundarya 👋
 
-Here are some ideas to get you started:
+🎓 MSc in Business Analytics @ Dublin Business School  
+💼 Former Data Engineer @ Metyis
+📊 Passionate about turning data into decisions through dashboards and predictive models  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- 🔍 I work on Data Analysis, Visualization & ML-powered insights  
+- 📌 I’ve built Power BI dashboards, machine learning projects, and time-series models  
+- 💡 I love simplifying complexity through clean data storytelling  
+- 🧠 Always learning: currently upskilling in Explainable AI & ML ethics  
+- 🧘 Fun fact: I enjoy decoding real-world problems more than Sudoku 🧩  
+
+---
+
+📬 How to reach me:  
+🌐 [Portfolio](https://soundaryasm.github.io)  
+💼 [LinkedIn](https://www.linkedin.com/in/soundaryasm)  
+📧 [Email](mailto:soundarya.mattikatti@gmail.com)  
+💻 [GitHub](https://github.com/soundaryasm)
+
+---
+
+
