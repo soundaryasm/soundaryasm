@@ -17,7 +17,7 @@
 - 🧘 Fun fact: I enjoy decoding real-world problems more than Sudoku
 
 📫 **How to reach me:**  
-🌐 [Portfolio](https://soundaryasm.github.io) • 💼 [LinkedIn](https://linkedin.com/in/soundaryasm) • 📧 [Email](mailto:soundarya.mattikatti@gmail.com) • 💻 [GitHub](https://github.com/soundaryasm)
+🌐 [Website](https://soundaryasm.github.io) • 💼 [LinkedIn](https://linkedin.com/in/soundaryasm) • 📧 [Email](mailto:soundarya.mattikatti@gmail.com) • 💻 [GitHub](https://github.com/soundaryasm)
 
 </td>
 <td width="35%" align="center">
